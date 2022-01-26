@@ -1,0 +1,7 @@
+[
+  { "name": "PLN", "PL": "Polski złoty", "EN": "Polish zloty" },
+  { "name": "EUR", "PL": "Euro", "EN": "Euro" },
+  { "name": "GBP", "PL": "Funt brytyjski", "EN": "British Pound" },
+  { "name": "USD", "PL": "Dolar amerykański", "EN": "U.S. Dollar" },
+  { "name": "JPY", "PL": "Jen japoński", "EN": "Japanese yen" }
+]
