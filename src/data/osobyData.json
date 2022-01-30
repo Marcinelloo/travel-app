@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "imie": "Marcin",
+    "nazwisko": "Kaszel",
+    "email": "antoni@wp.pl",
+    "haslo": "haslo",
+    "admin": "false"
+  },
+  {
+    "id": "2",
+    "imie": "Marcin",
+    "nazwisko": "Aszel",
+    "email": "batoni@wp.pl",
+    "haslo": "haslo1",
+    "admin": "true"
+  }
+]

@@ -1,7 +1,6 @@
 import React from "react";
 import Carousel from "react-bootstrap/Carousel";
 import Container from "react-bootstrap/esm/Container";
-import Card from "./Card";
 
 import photo1 from "../photos/photo1.jpg";
 import photo2 from "../photos/photo2.jpg";
@@ -11,8 +10,8 @@ const PhotoSlider = () => {
   return (
     <>
       <Container style={{ marginTop: "2%" }}>
-        <Carousel fade interval={4000}>
-          <Carousel.Item bsPrefix="carousel-item">
+        <Carousel indicators={false} touch fade interval={4000}>
+          <Carousel.Item bsPrefix="animationOne carousel-item">
             <img
               style={{
                 height: "500px",
@@ -22,8 +21,14 @@ const PhotoSlider = () => {
               src={photo1}
               alt="First slide"
             />
-            <Carousel.Caption>
-              <h3>Jakie miejsce jest twoim marzeniem?</h3>
+            <Carousel.Caption
+              bsPrefix="carousel-caption"
+              style={{ left: "-20%", right: "20%" }}
+            >
+              <h3 className="animationOne">
+                {" "}
+                Jakie miejsce jest twoim marzeniem?
+              </h3>
             </Carousel.Caption>
           </Carousel.Item>
 
@@ -38,7 +43,10 @@ const PhotoSlider = () => {
               alt="Second slide"
             />
 
-            <Carousel.Caption>
+            <Carousel.Caption
+              bsPrefix="carousel-caption"
+              style={{ left: "-20%", right: "20%" }}
+            >
               <h3>Jakie miejsce jest twoim marzeniem?</h3>
             </Carousel.Caption>
           </Carousel.Item>
@@ -52,7 +60,10 @@ const PhotoSlider = () => {
               src={photo3}
               alt="Third slide"
             />
-            <Carousel.Caption>
+            <Carousel.Caption
+              bsPrefix="carousel-caption"
+              style={{ left: "-20%", right: "20%" }}
+            >
               <h3 style={{ color: "white" }}>
                 Jakie miejsce jest twoim marzeniem?
               </h3>

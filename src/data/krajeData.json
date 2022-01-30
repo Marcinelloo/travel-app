@@ -1,0 +1,170 @@
+[
+  {
+    "kraj": "Polska",
+    "lokalizacje": [
+      {
+        "miasto": "Warszawa",
+        "wycieczki": [
+          {
+            "id": "1",
+            "hotel": "Mariot",
+            "gwiazki": "5",
+            "zdjecie": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/274545138.jpg?k=5b1b442023dc51205fcd23824c95f4aaae4ecd9f3f93b9636ff6d5f08f96454f&o=&hp=1",
+            "rodzaj": "hotel",
+            "sredniaOcena": "7",
+            "iloscOpini": "100",
+            "odCentrum": "5",
+            "znizka": "10",
+            "cena": "2000",
+            "iloscDni": "7",
+            "dataOd": "2022-01-30",
+            "dataDo": "2022-02-30"
+          },
+          {
+            "id": "2",
+            "hotel": "Mariot",
+            "gwiazki": "5",
+            "zdjecie": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/274545138.jpg?k=5b1b442023dc51205fcd23824c95f4aaae4ecd9f3f93b9636ff6d5f08f96454f&o=&hp=1",
+            "rodzaj": "hotel",
+            "sredniaOcena": "7",
+            "iloscOpini": "100",
+            "odCentrum": "5",
+            "znizka": "10",
+            "cena": "2000",
+            "iloscDni": "7",
+            "dataOd": "2022-01-30",
+            "dataDo": "2022-02-30"
+          },
+          {
+            "id": "3",
+            "hotel": "Mariot",
+            "gwiazki": "5",
+            "zdjecie": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/274545138.jpg?k=5b1b442023dc51205fcd23824c95f4aaae4ecd9f3f93b9636ff6d5f08f96454f&o=&hp=1",
+            "rodzaj": "hotel",
+            "sredniaOcena": "7",
+            "iloscOpini": "100",
+            "odCentrum": "5",
+            "znizka": "10",
+            "cena": "2000",
+            "iloscDni": "7",
+            "dataOd": "2022-01-30",
+            "dataDo": "2022-02-30"
+          },
+          {
+            "id": "4",
+            "hotel": "Mariot",
+            "gwiazki": "5",
+            "zdjecie": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/274545138.jpg?k=5b1b442023dc51205fcd23824c95f4aaae4ecd9f3f93b9636ff6d5f08f96454f&o=&hp=1",
+            "rodzaj": "hotel",
+            "sredniaOcena": "7",
+            "iloscOpini": "100",
+            "odCentrum": "5",
+            "znizka": "10",
+            "cena": "2000",
+            "iloscDni": "7",
+            "dataOd": "2022-01-30",
+            "dataDo": "2022-02-30"
+          },
+          {
+            "id": "1",
+            "hotel": "Mariot",
+            "gwiazki": "5",
+            "zdjecie": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/274545138.jpg?k=5b1b442023dc51205fcd23824c95f4aaae4ecd9f3f93b9636ff6d5f08f96454f&o=&hp=1",
+            "rodzaj": "hotel",
+            "sredniaOcena": "7",
+            "iloscOpini": "100",
+            "odCentrum": "5",
+            "znizka": "10",
+            "cena": "2000",
+            "iloscDni": "7",
+            "dataOd": "2022-01-30",
+            "dataDo": "2022-02-30"
+          },
+          {
+            "id": "2",
+            "hotel": "Mariot",
+            "gwiazki": "5",
+            "zdjecie": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/274545138.jpg?k=5b1b442023dc51205fcd23824c95f4aaae4ecd9f3f93b9636ff6d5f08f96454f&o=&hp=1",
+            "rodzaj": "hotel",
+            "sredniaOcena": "7",
+            "iloscOpini": "100",
+            "odCentrum": "5",
+            "znizka": "10",
+            "cena": "2000",
+            "iloscDni": "7",
+            "dataOd": "2022-01-30",
+            "dataDo": "2022-02-30"
+          },
+          {
+            "id": "3",
+            "hotel": "Mariot",
+            "gwiazki": "5",
+            "zdjecie": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/274545138.jpg?k=5b1b442023dc51205fcd23824c95f4aaae4ecd9f3f93b9636ff6d5f08f96454f&o=&hp=1",
+            "rodzaj": "hotel",
+            "sredniaOcena": "7",
+            "iloscOpini": "100",
+            "odCentrum": "5",
+            "znizka": "10",
+            "cena": "2000",
+            "iloscDni": "7",
+            "dataOd": "2022-01-30",
+            "dataDo": "2022-02-30"
+          },
+          {
+            "id": "4",
+            "hotel": "Mariot",
+            "gwiazki": "5",
+            "zdjecie": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/274545138.jpg?k=5b1b442023dc51205fcd23824c95f4aaae4ecd9f3f93b9636ff6d5f08f96454f&o=&hp=1",
+            "rodzaj": "hotel",
+            "sredniaOcena": "7",
+            "iloscOpini": "100",
+            "odCentrum": "5",
+            "znizka": "10",
+            "cena": "2000",
+            "iloscDni": "7",
+            "dataOd": "2022-01-30",
+            "dataDo": "2022-02-30"
+          }
+        ]
+      },
+      {
+        "miasto": "Karków",
+        "wycieczki": [
+          {
+            "id": "3",
+            "hotel": "Hotel2",
+            "gwiazki": "3",
+            "dataOd": "2022-01-30",
+            "dataDo": "2022-02-30"
+          },
+          {
+            "id": "4",
+            "hotel": "Hotel3",
+            "gwiazki": "2",
+            "dataOd": "2022-01-30",
+            "dataDo": "2022-02-30"
+          }
+        ]
+      },
+      {
+        "miasto": "Gdańsk",
+        "wycieczki": [
+          {
+            "id": "5",
+            "hotel": "Hotel4",
+            "gwiazki": "1",
+            "dataOd": "2022-01-30",
+            "dataDo": "2022-02-30"
+          },
+          {
+            "id": "6",
+            "hotel": "Hotel5",
+            "gwiazki": "3",
+            "dataOd": "2022-01-30",
+            "dataDo": "2022-02-30"
+          }
+        ]
+      }
+    ]
+  }
+]
