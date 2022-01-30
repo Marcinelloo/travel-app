@@ -63,7 +63,7 @@ const SearchPanel = () => {
             <span style={{ display: "flex" }}>
               <i
                 style={{ marginLeft: "2%", marginTop: "6%" }}
-                class="fa fa-search"
+                className="fa fa-search"
               ></i>
               <Form.Control
                 type="text"
@@ -150,8 +150,8 @@ const SearchPanel = () => {
                   fontSize: "12px",
                 }}
               >
-                <i class="fa fa-user" /> {adult + children}{" "}
-                <i class="fa fa-bed"></i> {roomsNumber}
+                <i className="fa fa-user" /> {adult + children}{" "}
+                <i className="fa fa-bed"></i> {roomsNumber}
               </Dropdown.Toggle>
               <Dropdown.Menu
                 align={{ lg: "end" }}
@@ -171,7 +171,7 @@ const SearchPanel = () => {
                     <tbody>
                       <tr>
                         <th>
-                          <i class="fa fa-user"></i>
+                          <i className="fa fa-user"></i>
                         </th>
                         <th>
                           <Form.Control
@@ -192,7 +192,7 @@ const SearchPanel = () => {
                       </tr>
                       <tr>
                         <th>
-                          <i class="fa fa-child"></i>
+                          <i className="fa fa-child"></i>
                         </th>
                         <th>
                           <Form.Control
@@ -214,7 +214,7 @@ const SearchPanel = () => {
                       <tr>
                         <th>
                           {" "}
-                          <i class="fa fa-bed"></i>
+                          <i className="fa fa-bed"></i>
                         </th>
                         <th>
                           <Form.Control

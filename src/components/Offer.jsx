@@ -17,7 +17,7 @@ const Offer = ({ data }) => {
 
   function offerPageHandler(event) {
     event.preventDefault();
-    navigate(`/id=${data.id}`);
+    navigate(`/:${data.id}`);
   }
 
   return (
@@ -35,7 +35,7 @@ const Offer = ({ data }) => {
           src={data.zdjecie}
           alt={data.hotel}
           height="120px"
-          width="300px"
+          width="298ąąpx"
           style={{ borderRadius: "40px 40px 0px 0px" }}
         />
         <Container>
@@ -80,7 +80,7 @@ const Offer = ({ data }) => {
                 fontWeight: "bold",
               }}
             >
-              Tylko u nas {data.znizka}%
+              Tylko u nas {data.znizka}% taniej*
             </div>
             <div
               style={{
@@ -124,9 +124,15 @@ const Offer = ({ data }) => {
                 style={{ borderRadius: "10px", fontSize: "13px" }}
               >
                 Zobacz Ofert{" "}
-                <i style={{ fontSize: "20px" }} class="fa fa-angle-right"></i>
+                <i
+                  style={{ fontSize: "20px" }}
+                  className="fa fa-angle-right"
+                ></i>
               </Button>
             </div>
+          </div>
+          <div style={{ marginLeft: "2%", marginTop: "-2%", fontSize: "8px" }}>
+            * rabat naliczany podczas tranzakcji
           </div>
         </Container>
       </Card>
